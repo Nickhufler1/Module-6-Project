@@ -1,0 +1,1 @@
+A weather app in which you can search a city and the temperature, humidity, cloud cover, and wind speed will be returned
